@@ -2,9 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # findSurf
-- project: <a href="https://github.com/mmandina/findSurf">findSurf</a>
+- project: findSurf
   duration: 2021 &mdash; Present
   # url: "#"
   description: Developed a full stack application enabling the viewing, submission, and editing of a public database of international surf spots. Integrated with the Google Maps API for custom markers and satellite map views.
-  Tech: NodeJS, ExpressJS, MongoDB Atlas, Google Cloud, HTML5, CSS, Bootstrap 
+  tech: NodeJS, ExpressJS, MongoDB Atlas, Google Cloud, HTML5, CSS, Bootstrap 
+  url: "https://github.com/mmandina/findSurf"
 
