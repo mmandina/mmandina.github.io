@@ -3,11 +3,12 @@
   uni: SUNY Maritime College
   year: January 2020
   awards:
-    - award:  Cum Laude graduate:/ 3.85 GPA
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award:  Cum Laude graduate &mdash; 3.85 GPA
+
 
 - degree: Bachelor of Science, Economics
   uni: Rutgers University - New Brunswick
   year: May 2017
-  award: Magna cum laude graduate:/ 3.71 GPA
+  awards:
+    - award:  Magna cum laude graduate &mdash; 3.71 GPA
   Selected Courses: Intro to Computers Science, Data Structures and Algorithms 
