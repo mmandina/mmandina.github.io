@@ -6,5 +6,5 @@
   duration: 2021 &mdash; Present
   description: Developed a full stack application enabling the viewing, submission, and editing of a public database of international surf spots. Integrated with the Google Maps API for custom markers and satellite map views.
   tech: NodeJS, ExpressJS, MongoDB Atlas, Google Cloud, HTML5, CSS, Bootstrap 
-  url: "http://findsurf.maxwellmandina.com/"
+  url: "http://findsurf.maxwellmandina.com/home"
 
