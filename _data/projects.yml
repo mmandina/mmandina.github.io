@@ -12,6 +12,7 @@
 # findSurf
 - project: findSurf
   duration: 2021 &mdash; Present
+  role: Creator
   description: <em>Global Web-Based Surf Atlas - Personal Project</em><ul><li>Utilized Google Cloud Maps API to enable users to view 8500+ surf spots on a world map</li><li>Implemented pagination functionality reducing loading times and extraneous API calls by 98%</li><li>Developed middleware using Passport.js allowing users to create accounts with different permissions</li></ul>
   tech: NodeJS, ExpressJS, MongoDB Atlas, Google Cloud, HTML5, CSS, Bootstrap 
   url: "http://findsurf.maxwellmandina.com/home"
