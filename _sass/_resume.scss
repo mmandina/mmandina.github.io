@@ -166,7 +166,9 @@
     letter-spacing: -.05rem;
     line-height: 1;
   }
-
+  .resume-project-item-title:first-of-type{
+color:black
+  }
   .resume-project-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
