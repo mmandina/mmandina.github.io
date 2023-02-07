@@ -1,25 +1,25 @@
 # Jobs
-# USNS MERCY
-- company: Military Sealift Command, USNS Mercy &mdash; 894 ft Hospital Ship, Steam Plant 	
-  position: 3rd Officer 
-  duration: 2021 &mdash; 2022
-  summary: <ul class="resume-item-list"><li>Modernized a deprecated Microsoft Access application/database to automate various onboard administrative tasks</li><li>Absorbed a large portion of Deck Department head responsibilities due to the lack of a Chief Mate</li><li>Managed a department of 12 while standing watches through two different vessel repair periods</li></ul>
+# FORMATION
+- company: Formation 	
+  position: Software Engineering Fellow
+  duration: 2022 &mdash; 2023
+  summary: <ul class="resume-item-list"><li>Selected for highly-competitive Fellowship for personalized coaching from senior software engineers at
+top-tier companies</li><li>Completed intensive training to master computer science fundamentals through coding exercises,
+development in live production environment, pair programming, and small mentor-led groups</li><li>Studied front-end design fundamentals in small groups led by senior engineers, comparing and contrasting
+concepts in modern web-based applications</li></ul>
 
-# USNS SIOUX
-- company: Military Sealift Command, USNS Sioux - 226 ft Salvage Tug, Diesel Plant 
-  position: 3rd Officer/Deck Department Head 
-  duration: 2021
-  summary: <ul class="resume-item-list"><li>Acting department head for department of 5 personnel </li><li>Managed payroll, medical duties, administrative upkeep, and supply ordering </li></ul>
-
-
-# USNS ZEUS
-- company: Military Sealift Command, USNS Zeus &mdash; 513 ft Cable Ship, DP2, Diesel Electric Plant 
-  position: 3rd Officer/DPO 
-  duration: 2020
-  summary: <ul class="resume-item-list"><li>Engaged in DP cable repair, survey, and ROV operations </li><li>Stood navigation and dynamic positioning watches </li><li>Officer in charge of lifeboat, damage control locker, and various safety/firefighting inspections </li></ul>
+# MILITARY SEALIFT COMMAND
+- company: Military Sealift Command
+  position: 3rd Officer &mdash; Secret Security Clearance
+  duration: 2020 &mdash; 2022
+  summary: <ul class="resume-item-list"><li>Modernized a deprecated database program written in Visual Basic, automating administrative tasks saving
+20+ man hours biweekly</li><li>Oversaw navigation watches on a 894 foot hospital ship on a global humanitarian mission while managing
+a department of 12 workers and 29 sub contractors over 5 months</li></ul>
 
 # SEABURY MARITIME
 - company: Seabury Capital Group &mdash; Seabury Maritime
   position: Intern Analyst
-  duration: 2019 &mdash; 2020
-  summary: <ul class="resume-item-list"><li>Constructed financial models and pitch decks for various sell-side offerings </li><li>Worked with senior management on consulting assignments involving maritime technology and digitalization</li></ul>
+  duration: 2020
+  summary: <ul class="resume-item-list"><li>Built and designed financial models for various sell-side offerings on deals worth 100M+</li>
+  <li>Advised senior level management on the creation of a digital platform for the buying and selling of shipping
+space on deep-sea container ships</li></ul>
