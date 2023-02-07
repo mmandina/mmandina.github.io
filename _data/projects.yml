@@ -2,16 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Recur
-- project: Recur
+- project: Recur 
   duration: 2022 &mdash; Present
-  description: <ul><li>Designed and built a feedback feature allowing users to submit feedback from the web app to a new feedback API endpoint on the back end </li><li>Revised the exam page selection algorithm, ensuring that novel exams were provided on first load, reducing loading times by 20% and preventing multiple reloads of content</li></ul>
+  description: <em>iOS development instructional platform - Formation</em><ul><li>Designed and built a feedback feature allowing users to submit feedback from the web app to a new feedback API endpoint on the back end </li><li>Revised the exam page selection algorithm, ensuring that novel exams were provided on first load, reducing loading times by 20% and preventing multiple reloads of content</li></ul>
   tech: React, Redux, Express.js, Webpack, Material-UI
 
 
 # findSurf
 - project: findSurf
   duration: 2021 &mdash; Present
-  description: Developed a full stack application enabling the viewing, submission, and editing of a public database of international surf spots. Integrated with the Google Maps API for custom markers and satellite map views.
+  description: <em>Global Web-Based Surf Atlas - Personal Project</em><ul><li>Utilized Google Cloud Maps API to enable users to view 8500+ surf spots on a world map</li><li>Implemented pagination functionality reducing loading times and extraneous API calls by 98%</li><li>● Developed middleware using Passport.js allowing users to create accounts with different permissions</li></ul>
   tech: NodeJS, ExpressJS, MongoDB Atlas, Google Cloud, HTML5, CSS, Bootstrap 
   url: "http://findsurf.maxwellmandina.com/home"
 
