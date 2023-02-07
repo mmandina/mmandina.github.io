@@ -4,6 +4,7 @@
 # Recur
 - project: Recur 
   duration: 2022 &mdash; Present
+  role: Contributor
   description: <em>iOS development instructional platform - Formation</em><ul><li>Designed and built a feedback feature allowing users to submit feedback from the web app to a new feedback API endpoint on the back end </li><li>Revised the exam page selection algorithm, ensuring that novel exams were provided on first load, reducing loading times by 20% and preventing multiple reloads of content</li></ul>
   tech: React, Redux, Express.js, Webpack, Material-UI
 
