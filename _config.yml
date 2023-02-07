@@ -23,7 +23,7 @@ resume_contact_telephone:       "7326855813"
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Hey! I'm Max, a former US Merchant Marine Officer and current software engineer. I live in Brooklyn, NY and am seeking an entry level job as a software engineer. My main skillset lies in MERN stack development and Javascript but I am constantly learning and adding new skills to my toolbelt. </p>"
+resume_header_intro: "<p>I am a Software Engineer focusing on full-stack Javascript/TypeScript development from the NYC area. I hold a bachelor's degree in Economics and a master's degree in International Transportation Management. I started learning computer science at Rutgers University, but took a break while I was sailing deep sea as a US Merchant Marine Deck Officer.</p><p>I sailed around the world on all kinds of deep-sea sailing vessels, from tiny tugboats to hulking hospital ships! I started self-teaching software engineering after my shifts onboard every night, and eventually came home to NYC to join the great tech community here.</p></p>I enjoy surfing and traveling, which led me to build my first full stack web application, findSurf (findsurf.maxwellmandina.com). It's the surf atlas I wish existed when I was traveling all over the world, surfing wherever I could find a wave! I'm currently looking for software-engineering roles. If you would like to talk, contact me at maxwell.mandina@gmail.com.</p><p>Fair winds and following seas!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -49,7 +49,7 @@ resume_social_links:
   #resume_twitter_url:           ""
   #resume_dribbble_url:          ""
   # resume_facebook_url:          "insert Facebook URL here"
-  #resume_linkedin_url:          ""
+  resume_linkedin_url:          "https://www.linkedin.com/in/maxwell-mandina/"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           ""
  # resume_medium_url:            ""
