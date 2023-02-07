@@ -1,6 +1,6 @@
 # Jobs
 # FORMATION
-# - company: Formation 	
+# - company: Formation
 #   position: Software Engineering Fellow
 #   duration: 2022 &mdash; 2023
 #   summary: <ul class="resume-item-list"><li>Selected for highly-competitive Fellowship for personalized coaching from senior software engineers at
@@ -8,13 +8,13 @@
 # development in live production environment, pair programming, and small mentor-led groups</li><li>Studied front-end design fundamentals in small groups led by senior engineers, comparing and contrasting
 # concepts in modern web-based applications</li></ul>
 
-# MILITARY SEALIFT COMMAND
-- company: Military Sealift Command
-  position: 3rd Officer &mdash; Secret Security Clearance
-  duration: 2020 &mdash; 2022
-  summary: <ul class="resume-item-list"><li>Modernized a deprecated database program written in Visual Basic, automating administrative tasks saving
-20+ man hours biweekly</li><li>Oversaw navigation watches on a 894 foot hospital ship on a global humanitarian mission while managing
-a department of 12 workers and 29 sub contractors over 5 months</li></ul>
+# # MILITARY SEALIFT COMMAND
+# - company: Military Sealift Command
+#   position: 3rd Officer &mdash; Secret Security Clearance
+#   duration: 2020 &mdash; 2022
+#   summary: <ul class="resume-item-list"><li>Modernized a deprecated database program written in Visual Basic, automating administrative tasks saving
+# 20+ man hours biweekly</li><li>Oversaw navigation watches on a 894 foot hospital ship on a global humanitarian mission while managing
+# a department of 12 workers and 29 sub contractors over 5 months</li></ul>
 
 # SEABURY MARITIME
 - company: Seabury Capital Group &mdash; Seabury Maritime
